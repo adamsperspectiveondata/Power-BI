@@ -1,9 +1,0 @@
-{
-  "version": "1.0",
-  "datasetReference": {
-    "byPath": {
-      "path": "../Deltek Sales Orders Model.Dataset"
-    },
-    "byConnection": null
-  }
-}
